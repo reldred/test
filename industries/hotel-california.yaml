@@ -10,11 +10,11 @@ id: 0
 layout:
 - - - 1
     - 0
-name: 'New industry #0'
+name: Hotel California
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
@@ -24,7 +24,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/1.png
+      filename: industries/hotel-california/1.png
       left: -83
       top: -82
 - sprites:
@@ -35,7 +35,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/2.png
+      filename: industries/hotel-california/2.png
       left: -115
       top: -66
-type: primary
+type: tertiary
